@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 all gone!!!!!
+=======
+doing git lab internal today!!!
+
+>>>>>>> 151fa86 (second commit)
